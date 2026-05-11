@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business Value of Open Source on Open Source in Business Guide</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/</link><description>Recent content in Business Value of Open Source on Open Source in Business Guide</description><generator>Hugo</generator><language>en</language><atom:link href="https://eriksven.github.io/ospology/whitepapers/business-value/index.xml" rel="self" type="application/rss+xml"/><item><title>Table of Contents</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/toc/</guid><description>&lt;h1 id="table-of-contents"&gt;
+ Table of Contents
+ 
+ &lt;a class="anchor" href="#table-of-contents"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="introduction"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/introduction/"&gt;Introduction&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#introduction"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Guide&amp;rsquo;s purpose and audience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="what-is-open-source"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/definition/"&gt;What is Open Source?&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#what-is-open-source"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The legal definition, plus background on the open source movement&lt;/li&gt;
+&lt;li&gt;The difference between &amp;rsquo;legally&amp;rsquo; open source and the open source philosophy&lt;/li&gt;
+&lt;li&gt;Misconceptions about open source&lt;/li&gt;
+&lt;li&gt;Description of common practices in open source development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="adoption-of-open-source-principles"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/adoption/"&gt;Adoption of Open Source Principles&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#adoption-of-open-source-principles"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Open source in modern software engineering&lt;/li&gt;
+&lt;li&gt;Open source in modern businesses&lt;/li&gt;
+&lt;li&gt;Engagement levels in open source
+&lt;ul&gt;
+&lt;li&gt;Using open source software&lt;/li&gt;
+&lt;li&gt;Contributing to open source software&lt;/li&gt;
+&lt;li&gt;Publishing and maintaining open source software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Engineering Driven vs. Business Driven Open Source
+&lt;ul&gt;
+&lt;li&gt;Definitions&lt;/li&gt;
+&lt;li&gt;Implementation strategies for business-driven&lt;/li&gt;
+&lt;li&gt;Connecting the two perspectives for a holistic approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="business-benefits-of-open-source-software"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/benefits/"&gt;Business benefits of open source software&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#business-benefits-of-open-source-software"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineering benefits&lt;/li&gt;
+&lt;li&gt;Marketing + sales benefits&lt;/li&gt;
+&lt;li&gt;Other business benefits (recruiting, retention, reputation)&lt;/li&gt;
+&lt;li&gt;Difference in business benefits depending on the engagement level (user, contributor, editor)&lt;/li&gt;
+&lt;li&gt;Strategies for maximizing the business benefits of open source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="the-mechanics-of-open-source-in-business"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/business-drivers/"&gt;The mechanics of Open Source in business&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#the-mechanics-of-open-source-in-business"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Drivers&lt;/li&gt;
+&lt;li&gt;Archetypes&lt;/li&gt;
+&lt;li&gt;Business models&lt;/li&gt;
+&lt;li&gt;Framework for deciding whether your organization should release an internal project as an open source project&lt;/li&gt;
+&lt;li&gt;Open Source is not a business model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="buying-open-source"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/purchasing/"&gt;Buying Open Source&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#buying-open-source"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Source in purchasing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="addressing-open-source-downsides"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/downsides/"&gt;Addressing Open source downsides&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#addressing-open-source-downsides"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Risks and challenges from using open source software&lt;/li&gt;
+&lt;li&gt;Addressing security concerns and support availability&lt;/li&gt;
+&lt;li&gt;Risks and challenges from contributing to open source software&lt;/li&gt;
+&lt;li&gt;Risks and challenges from publishing and maintaining open source software
+&lt;ul&gt;
+&lt;li&gt;Cyber Resilience Act (CRA) when publishing software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Legislative risks related to open source software&lt;/li&gt;
+&lt;li&gt;How to properly budget or allocate resources for OSPOs?&lt;/li&gt;
+&lt;li&gt;Strategies for minimizing the risks and downsides from open source
+&lt;ul&gt;
+&lt;li&gt;General business risk management and Open Source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="communicating-open-source"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/communication/"&gt;Communicating open source&amp;rsquo;s value with business stakeholders&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#communicating-open-source"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjusting your message according to your audience - not all business stakeholders are the same&lt;/li&gt;
+&lt;li&gt;Focus on the 2 or 3 primary benefits you think this particular project will have; all projects are different&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t hide the drawbacks of open source; be frank about the potential risks and downsides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="case-studies-and-success-stories"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/case-studies/"&gt;Case Studies and Success Stories&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#case-studies-and-success-stories"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Neutral collaboration: Stories from organizations like LF Energy&amp;rsquo;s OpenSTEF or from Open Telemetry&lt;/li&gt;
+&lt;li&gt;Case study from open source &amp;lsquo;user&amp;rsquo; organizations&lt;/li&gt;
+&lt;li&gt;Case study from organizations who are engaged contributors&lt;/li&gt;
+&lt;li&gt;Case study from publishers of open source software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="conclusion"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/conclusion/"&gt;Conclusion&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#conclusion"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Recap of the guide&amp;rsquo;s key points  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="glossary"&gt;
+ &lt;a href="https://eriksven.github.io/ospology/whitepapers/business-value/glossary/"&gt;Glossary&lt;/a&gt;
+ 
+ &lt;a class="anchor" href="#glossary"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Glossary of terms&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Introduction</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/introduction/</guid><description>&lt;h1 id="introduction"&gt;
+ Introduction
+ 
+ &lt;a class="anchor" href="#introduction"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="purpose-of-this-guide"&gt;
+ Purpose of this guide
+ 
+ &lt;a class="anchor" href="#purpose-of-this-guide"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;For the people who work in open source program offices and/or are involved in open source, the inability to convince their business counterparts to become more involved is a source of frustration. Open source champions know that their companies are missing out on opportunities to build value for the business, but they don&amp;rsquo;t have the right arguments to get the rest of the company on board. This is reflected in the fact that only 36% of organizations have a formal open source strategy, according to research done by the &lt;a href="https://www.linuxfoundation.org/hubfs/Research%20Reports/2025GlobalSpotlight_Oct-27-2025%20V4.pdf?hsLang=en"&gt;Linux Foundation&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>What is Open Source?</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/definition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/definition/</guid><description>&lt;h1 id="what-is-open-source"&gt;
+ What is Open Source?
+ 
+ &lt;a class="anchor" href="#what-is-open-source"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;When it comes to open source, there are a lot of misconceptions – even among software engineers. So what exactly is open source?&lt;/p&gt;
+&lt;p&gt;Open source software has its roots in the free software movement, which started in the 1970s. Software was the first &amp;lsquo;digital product.&amp;rsquo; Long before there were digital music or digital books, you could create a copy of a software program for free, without any impact on the original program. This gave rise to a political philosophy that holds that programmers shouldn&amp;rsquo;t charge for software, and that software should be a source of empowerment for users. The &amp;lsquo;free&amp;rsquo; in the free software movement is a reference to freedom, not to something that costs $0. There are four basic freedoms of the free software movement:&lt;/p&gt;</description></item><item><title>Adoption of Open Source Principles</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/adoption/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/adoption/</guid><description>&lt;h2 id="open-source-in-modern-software-engineering"&gt;
+ Open source in modern software engineering
+ 
+ &lt;a class="anchor" href="#open-source-in-modern-software-engineering"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Nearly all software engineers use open source software, and most use open source software on a daily basis.&lt;/p&gt;
+&lt;p&gt;Research from &lt;a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=65230"&gt;Harvard Business School&lt;/a&gt; shows that the value of open source software in the global market is around $8.8 trillion – that is, businesses would have to spend nearly $9 trillion to create and maintain software internally if open source software did not exist. Businesses would have to spend 3.5 times more on engineering if it were not for open source software.&lt;/p&gt;</description></item><item><title>Business benefits of open source software</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/benefits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/benefits/</guid><description>&lt;h1 id="business-benefits-of-open-source-software"&gt;
+ Business benefits of open source software
+ 
+ &lt;a class="anchor" href="#business-benefits-of-open-source-software"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="innovation"&gt;
+ Innovation
+ 
+ &lt;a class="anchor" href="#innovation"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Even by just using open source projects, you&amp;rsquo;re able to take advantage of the experiences of a wide range of use cases, individuals and industries. When you become involved in open source projects and even publish your own, you&amp;rsquo;re able to more quickly see how a piece of software can be used in a variety of novel situations, and to get feedback on use cases and edge cases quickly.&lt;/p&gt;</description></item><item><title>The mechanics of Open Source in business</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/business-drivers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/business-drivers/</guid><description>&lt;h1 id="the-mechanics-of-open-source-in-business"&gt;
+ The mechanics of open source in business
+ 
+ &lt;a class="anchor" href="#the-mechanics-of-open-source-in-business"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;Open source is not a business model per se, but it can play a pivotal role in driving business growth. The ideal scenario is where open source adoption creates a mutually reinforcing cycle, where business success drives open source development, and vice versa.&lt;/p&gt;
+&lt;p&gt;We will describe the main ways open source can act as a driver of business and then show how these drivers work in different business models.&lt;/p&gt;</description></item><item><title>Buying Open Source</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/purchasing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/purchasing/</guid><description>&lt;h1 id="buying-open-source"&gt;
+ Buying Open Source
+ 
+ &lt;a class="anchor" href="#buying-open-source"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Source in purchasing&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Addressing Open source downsides</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/downsides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/downsides/</guid><description>&lt;h1 id="addressing-open-source-downsides"&gt;
+ Addressing Open source downsides
+ 
+ &lt;a class="anchor" href="#addressing-open-source-downsides"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Risks and challenges from using open source software&lt;/li&gt;
+&lt;li&gt;Addressing security concerns and support availability&lt;/li&gt;
+&lt;li&gt;Risks and challenges from contributing to open source software&lt;/li&gt;
+&lt;li&gt;Risks and challenges from publishing and maintaining open source software
+&lt;ul&gt;
+&lt;li&gt;Cyber Resilience Act (CRA) when publishing software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Legislative risks related to open source software&lt;/li&gt;
+&lt;li&gt;How to properly budget or allocate resources for OSPOs?&lt;/li&gt;
+&lt;li&gt;Strategies for minimizing the risks and downsides from open source
+&lt;ul&gt;
+&lt;li&gt;General business risk management and Open Source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Communicating open source's value with business stakeholders</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/communication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/communication/</guid><description>&lt;h1 id="communicating-open-sources-value-with-business-stakeholders"&gt;
+ Communicating open source&amp;rsquo;s value with business stakeholders
+ 
+ &lt;a class="anchor" href="#communicating-open-sources-value-with-business-stakeholders"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjusting your message according to your audience - not all business stakeholders are the same&lt;/li&gt;
+&lt;li&gt;Focus on the 2 or 3 primary benefits you think this particular project will have; all projects are different&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t hide the drawbacks of open source; be frank about the potential risks and downsides&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Case Studies and Success Stories</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/case-studies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/case-studies/</guid><description>&lt;h1 id="case-studies-and-success-stories"&gt;
+ Case Studies and Success Stories
+ 
+ &lt;a class="anchor" href="#case-studies-and-success-stories"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Neutral collaboration: Stories from organizations like LF Energy&amp;rsquo;s OpenSTEF or from Open Telemetry&lt;/li&gt;
+&lt;li&gt;Case study from open source &amp;lsquo;user&amp;rsquo; organizations&lt;/li&gt;
+&lt;li&gt;Case study from organizations who are engaged contributors&lt;/li&gt;
+&lt;li&gt;Case study from publishers of open source software&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="success-stories"&gt;
+ Success Stories
+ 
+ &lt;a class="anchor" href="#success-stories"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;h2 id="microsoft-and-kubernetes"&gt;
+ Microsoft and Kubernetes
+ 
+ &lt;a class="anchor" href="#microsoft-and-kubernetes"&gt;#&lt;/a&gt;
+ 
+&lt;/h2&gt;
+&lt;h3 id="synopsis"&gt;
+ Synopsis:
+ 
+ &lt;a class="anchor" href="#synopsis"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id="open-source-archetype"&gt;
+ Open Source Archetype:
+ 
+ &lt;a class="anchor" href="#open-source-archetype"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id="initial-situation"&gt;
+ Initial Situation:
+ 
+ &lt;a class="anchor" href="#initial-situation"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h3 id="journey"&gt;
+ Journey:
+ 
+ &lt;a class="anchor" href="#journey"&gt;#&lt;/a&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;</description></item><item><title>Conclusion</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/conclusion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/conclusion/</guid><description>&lt;h1 id="conclusion"&gt;
+ Conclusion
+ 
+ &lt;a class="anchor" href="#conclusion"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Recap of the guide’s key points&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: This document is meant as a living document that evolves with community input&lt;/p&gt;</description></item><item><title>Glossary</title><link>https://eriksven.github.io/ospology/whitepapers/business-value/glossary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://eriksven.github.io/ospology/whitepapers/business-value/glossary/</guid><description>&lt;p&gt;This file is meant to both define terms that are commonly used in the open source world, as well as a brief description of how they relate to the business world. In some cases, you&amp;rsquo;ll frequently encounter acronyms instead of the full term &amp;ndash; in those cases, the acronym is provided as well.&lt;/p&gt;
+&lt;h1 id="preamble"&gt;
+ Preamble
+ 
+ &lt;a class="anchor" href="#preamble"&gt;#&lt;/a&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;There is the engineering driven and the business driven side. The engineering driven side is typically already well represented in the Open Source community but for the business driven side we miss useful material.
+Therefore we collaborate on the “Open Source in business guide” and we want to convince business people, that they should consider Open Source as an additional strategic tool in their strategy toolbox. Additionally we want to enable the Open Source evangelists in the organizations to convince their business managers about considering Open Source as an alternative to classic approaches by providing them some good practices an material that can be re-used.&lt;/p&gt;</description></item></channel></rss>
