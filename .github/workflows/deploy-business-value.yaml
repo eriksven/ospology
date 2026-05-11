@@ -1,0 +1,39 @@
+name: Deploy Business Value Whitepaper Website
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'whitepapers/business-value/**'
+  pull_request:
+    paths:
+      - 'whitepapers/business-value/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo site
+        working-directory: whitepapers/business-value
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./whitepapers/business-value/public
+          destination_dir: whitepapers/business-value
