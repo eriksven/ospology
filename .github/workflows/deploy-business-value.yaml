@@ -34,7 +34,9 @@ jobs:
 
       - name: Build Hugo site
         working-directory: whitepapers/business-value
-        run: hugo --minify
+        run: |
+          mkdir -p ../../pages-root/whitepapers/business-value
+          hugo --minify --destination ../../pages-root/whitepapers/business-value
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -42,7 +44,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./whitepapers/business-value/public
+          path: ./pages-root
 
   deploy:
     needs: build
